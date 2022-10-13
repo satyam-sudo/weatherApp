@@ -28,7 +28,7 @@ function TempApp() {
                     placeholder='Enter Location'
                     type="text" />
             </div>
-            <button className="bn3637 bn38" type='submit' onClick={searchLocation}>submit</button>
+            <button className="bn3637 bn38" type='submit' onClick={searchLocation}>Search</button>
             <div className="container">
                 <div className="top">
                     <div className="location">
